@@ -1,7 +1,3 @@
-``<p align="center">
-  <img src="https://path-to-your-banner-image.com/banner.png" alt="Header Banner" />
-</p>``
-
 <h1 align="center">Hi there, I'm Emmanuel Molero 👋</h1>
 <h3 align="center">Full Stack Developer | AI & LLM Specialist</h3>
 
