@@ -1,12 +1,12 @@
-<p align="center">
+``<p align="center">
   <img src="https://path-to-your-banner-image.com/banner.png" alt="Header Banner" />
-</p>
+</p>``
 
 <h1 align="center">Hi there, I'm Emmanuel Molero 👋</h1>
 <h3 align="center">Full Stack Developer | AI & LLM Specialist</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emmanuel-molero-454072139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:molero3111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
