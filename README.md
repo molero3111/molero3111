@@ -52,12 +52,3 @@ I am a Full Stack Developer with deep experience in building high-performance sy
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=molero3111&show_icons=true&theme=radical" alt="molero3111's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molero3111&layout=compact&theme=radical" alt="Top Langs" />
-</p>
